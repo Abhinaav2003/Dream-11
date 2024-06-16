@@ -13,3 +13,4 @@ function navToggle() {
        nav.removeAttribute("style");
    }
 } 
+
